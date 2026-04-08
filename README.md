@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! Soy Constanza Ahumada 👋🏻
 
-<!--
-**ConstanzaAhumadaP/ConstanzaAhumadaP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+Formación Ingeniera Civil en Minas y experiencia en tecnología.
 
-Here are some ideas to get you started:
+🔭 Actualmente estoy capacitándome de manera constante en ciencia de datos.  
+🌱 Estoy aprendiendo para contribuir a la minería del futuro.  
+🥅 Metas para 2026: Contribuir mediante optimización y analítica en el rubro minero.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías y Herramientas
+- Java  
+- Python  
+- SQL  
+- AWS  
+
+## 📬 Contacto
+- LinkedIn
