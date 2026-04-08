@@ -1,7 +1,8 @@
-# ¡Hola! Soy Constanza Ahumada 👋🏻
+# ¡Holiwis! Me presento, soy Constanza Ahumada 👋🏻
 
 ## 🚀 Sobre mí
-Formación Ingeniera Civil en Minas y experiencia en tecnología.
+
+![Mining Tech](https://img.shields.io/badge/Ingeniera_Civil_en_Minas_%7C_Tech_Expert-004d40?style=for-the-badge&logo=minutemailer&logoColor=white)   Ingeniera Civil en Minas, experiencia en tecnología. 
 
 🔭 Actualmente estoy capacitándome de manera constante en ciencia de datos.  
 🌱 Estoy aprendiendo para contribuir a la minería del futuro.  
