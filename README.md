@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mí
 
-![Minas](https://img.shields.io/badge/Ingeniera_Civil_en_Minas-4A90E2?style=for-the-badge&logo=mines&logoColor=black) ![Tech](https://img.shields.io/badge/Software_&_Data_Science-FFB6C1?style=for-the-badge&logo=amazonaws&logoColor=black)   
+![Minas](https://img.shields.io/badge/Ingeniera_Civil_en_Minas-007BFF?style=for-the-badge&logo=mines&logoColor=black) ![Tech](https://img.shields.io/badge/Software_&_Data_Science-FFB6C1?style=for-the-badge&logo=amazonaws&logoColor=black)   
 
 🔭 Actualmente estoy capacitándome de manera constante en ciencia de datos.  
 🌱 Estoy aprendiendo para contribuir a la minería del futuro.  
